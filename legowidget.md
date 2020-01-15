@@ -1,4 +1,5 @@
 # **Lego Widget**
+## by Clancy Moody
 ![alt text](https://github.com/clancymoody/e235/blob/Images/image1.png)
 ![alt text](https://github.com/clancymoody/e235/blob/Images/image2.png)
 ![alt text](https://github.com/clancymoody/e235/blob/Images/image3.png)
