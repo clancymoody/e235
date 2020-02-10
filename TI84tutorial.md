@@ -34,7 +34,7 @@ Update by:
 ![Image](https://github.com/clancymoody/e235/blob/master/Key%20Pad.jpg)
 
 **This the emulator display screen, it shows user entered inputs and calculator outputs.**
-! [Image] (https://github.com/clancymoody/e235/blob/master/Screen.jpg)
+![Image] (https://github.com/clancymoody/e235/blob/master/Screen.jpg)
 
 **This is the "Key History" This shows the keys selected. This helps show what key presses accomplished the task shown on the screen**
-! [image] (https://github.com/clancymoody/e235/blob/master/Screen.jpg)
+![image] (https://github.com/clancymoody/e235/blob/master/Key%20History.jpg)
