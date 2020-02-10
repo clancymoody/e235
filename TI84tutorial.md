@@ -28,13 +28,21 @@ Update by:
 -First we are going to orient the user with the TI 84 Desktop Emulator that is used to capture the screen shots for the tutorial.
 ---
 **This is what the TI 84 Emulator looks like on the screen.**
+
 ![Image](https://github.com/clancymoody/e235/blob/master/Emulator%20screen.jpg)
+
 ---
 **This is the key pad. Clicking on these buttons is how you enter commands into the emulator**
+
 ![Image](https://github.com/clancymoody/e235/blob/master/Key%20Pad.jpg)
+
 ---
 **This the emulator display screen, it shows user entered inputs and calculator outputs.**
+
 ![Image](https://github.com/clancymoody/e235/blob/master/Screen.jpg)
+
 ---
 **This is the "Key History" This shows the keys selected. This helps show what key presses accomplished the task shown on the screen**
+
 ![image](https://github.com/clancymoody/e235/blob/master/Key%20History.jpg)
+
