@@ -35,4 +35,4 @@ I am not currently involved in any actives the require technical writing, except
 ---
 
 #### Given your responses to the above prompts -- what do you think? what are some possibilities for projects?
-After starting the tutorial on the TI 84 and realizing that I needed to create a tutorial to orient students to the TI 84 Emulator lay out. I think doing multiple further tutorials on the TI 84 calculator. 
+After starting the tutorial on the TI 84 and realizing that I needed to create a tutorial to orient students to the TI 84 Emulator lay out, I think doing multiple other tutorials on the TI 84 calculator would be appropirate. 
