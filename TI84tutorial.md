@@ -25,7 +25,8 @@ Update by:
 
 ##  Tutorial
 
--First we are going to orient the user with the TI 84 Desktop Emulator that is used to capture the screen shots for the tutorial.
+>First we are going to orient the user with the TI 84 Desktop Emulator that is used to capture the screen shots for the tutorial.
+
 ---
 **This is what the TI 84 Emulator looks like on the screen.**
 
