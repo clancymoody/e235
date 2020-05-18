@@ -5,7 +5,7 @@ Clancy Moody
 ---
 
 #### As best you can, describe the field or industry you can see yourself working in as a technical writer.
-Aero/Astrospace engineering, but as an engineer, I would like to be able to communicate easily with other engineers and pass data to the offical Tech Writers with minimum data loss in translation. 
+Aero/Astrospace engineering, but as an engineer, I would like to be able to communicate easily with other engineers and pass data to the official Tech Writers with minimum data loss in translation. 
 
 ---
 
@@ -29,10 +29,10 @@ Tech Writers can respond to recalls, failures, and/or upgraded.
 
 ---
 
-#### Beyond your desired field or industry, what situtaions -- professional, academic, even personal -- are you currently involved in that might need the work of a technical writer? For example, maybe your job doesn't have an employee manual, but really is in need of one. Or, maybe there is a manual but its 25 years old.
+#### Beyond your desired field or industry, what situations -- professional, academic, even personal -- are you currently involved in that might need the work of a technical writer? For example, maybe your job doesn't have an employee manual, but really is in need of one. Or, maybe there is a manual but its 25 years old.
 I am not currently involved in any actives the require technical writing, except Technical Writing class.
 
 ---
 
 #### Given your responses to the above prompts -- what do you think? what are some possibilities for projects?
-After starting the tutorial on the TI 84 and realizing that I needed to create a tutorial to orient students to the TI 84 Emulator lay out, I think doing multiple other tutorials on the TI 84 calculator would be appropirate. 
+After starting the tutorial on the TI 84 and realizing that I needed to create a tutorial to orient students to the TI 84 Emulator lay out, I think doing multiple other tutorials on the TI 84 calculator would be appropriate. 
